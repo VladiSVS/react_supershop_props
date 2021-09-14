@@ -1,0 +1,28 @@
+* {
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 10%;
+}
+
+.size {
+  width: 30%;
+}
+
+img {
+  width: 100%;
+  height: 70%;
+}
+
+button {
+  background: tomato;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  padding: 5% 15%;
+  cursor: pointer;
+}
